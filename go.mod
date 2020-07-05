@@ -3,7 +3,8 @@ module github.com/mpppk/cli-template
 go 1.12
 
 require (
-	github.com/blang/semver v3.6.1+incompatible
+	github.com/blang/semver v3.5.1+incompatible
+	github.com/blang/semver/v4 v4.0.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/rhysd/go-github-selfupdate v1.1.0
 	github.com/spf13/afero v1.2.2
